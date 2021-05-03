@@ -9,20 +9,12 @@ Once your account is setup we can now explore.
 
 ### 'Public' Annotations 
 
-Navigate to:
-
-- [The cost of the Suez Canal blockage](https://www.bbc.com/news/business-56559073)
-
-- [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
-
-Add / View Public comments & annotations 
-
+- Navigate to: [The cost of the Suez Canal blockage](https://www.bbc.com/news/business-56559073)
+- Navigate to: [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
+- Add / View Public comments & annotations 
 
 
 ![BBC annotations](method_1_step_1.png)
-
-
-
 
 
 
@@ -31,13 +23,9 @@ Add / View Public comments & annotations
 ### 'Group' Annotations
 
 - Join our [group]()
-
-Navigate to:
-
-- [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
-
-Leave an annotation for our group only
-View our [group annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
+- Navigate to: [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
+- Leave an annotation for our group only
+- View our [group annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
 
 
 
@@ -49,12 +37,9 @@ View our [group annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
 
 ### One last Exercise
 
-Explore other 'public' annotations
-
-Share any interesting links in the Chat box.
-
-You can start from the public group annotation [listing](https://hypothes.is/groups/__world__/public?q=)
-
+- Explore other 'public' annotations
+- Share any interesting links in the Chat box.
+- You can start from the public group annotation [listing](https://hypothes.is/groups/__world__/public?q=)
 
 
 ![list of public annotations](method_1_step_3.png)
