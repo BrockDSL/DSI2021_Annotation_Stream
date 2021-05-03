@@ -22,10 +22,10 @@ Once your account is setup we can now explore.
 
 ### 'Group' Annotations
 
-- Join our [group]()
+- Join our [group](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
 - Navigate to: [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
 - Leave an annotation for our group only
-- View our [group annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
+- View our group[annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
 
 
 
