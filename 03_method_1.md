@@ -6,9 +6,41 @@
 
 ## Method 1: Hyptothesis on the Open Web
 
-- Once we have account setup
-- Navigate to:
-- - [The cost of the Suez Canal blockage]
+Once your account is setup we can now explore.
+
+
+
+### 'Public' Annotations 
+
+Navigate to:
+
+- [The cost of the Suez Canal blockage](https://www.bbc.com/news/business-56559073)
+
+- [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
+
+Add / View Public comments & annotations 
+
+
+
+### 'Group' Annotations
+
+- Join our [group]()
+
+Navigate to:
+
+- [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
+
+Leave an annotation for our group only
+View our [group annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
+
+
+
+### One last Exercise
+
+Explore other 'public' annotations
+You can start from the public group annotation [listing](https://hypothes.is/groups/__world__/public?q=)
+
+
 
 
 
