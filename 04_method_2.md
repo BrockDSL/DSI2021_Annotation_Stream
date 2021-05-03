@@ -29,22 +29,27 @@ You can access Hyptothes.is via the **Lessons** tool in Sakai. You pick a file f
    
 
 **Step 1.**
+
 <img src="method_2_step_1.png" alt="Step 1. Lesson tab" style="zoom:50%;" />
 
 **Step 2.**
+
 <img src="method_2_step_2.png" alt="Step 2. Add Exernal Tool " style="zoom:50%;" />
 
 **Step 3.**
-<img src="method_2_step_3.png" alt="Step 3. Edit-to-add "/>
+
+<img src="method_2_step_3.png" alt="Step 3. Edit-to-add " style="zoom:75%;" />
 
 **Step 4.**
+
 <img src="method_2_step_4.png" alt="Step 4. Dialog box details"/>
 
 **Step 5.**
-<img src="method_2_step_5.png" alt="Step 5. Link in Lessons"/>
+
+<img src="method_2_step_5.png" alt="Step 5. Link in Lessons" style="zoom:75%;" />
 
 **Step 6.**
-<img src="method_2_step_6.png" alt="Step 6. Upload or Link"/>
+<img src="method_2_step_6.png" alt="Step 6. Upload or Link" style="zoom:75%;" />
 
 
 
@@ -53,15 +58,26 @@ You can access Hyptothes.is via the **Lessons** tool in Sakai. You pick a file f
 ### Marking an Item in Sakai
 
 1. View Item
+
 2. Assign a Grade
+
 3. It will automatically get added to Gradebook (default to an _out of 10_ score)
+
+
+
 **NB.** Brock re-upped subscription to the tool and it will be in place until at least end of 2021 fiscal. Longer if intersted in the tool continues.
+
+
 
 **Step 1.**
 
 **Step 2.**
 
 **Step 3.**
+
+
+
+
 
 ----
 
