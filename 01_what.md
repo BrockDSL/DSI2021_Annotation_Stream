@@ -1,6 +1,3 @@
-![Tool Logo][imglogo]
-
-
 # Annotation via Hypothesis
 
 ## What is Hyptothesis

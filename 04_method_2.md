@@ -1,10 +1,10 @@
-![Tool Logo][imglogo]
-
-
 # Annotation via Hypothesis
 
-
 ## Method 2: Hypothes.is in Sakai
+
+
+
+
 
 ## Basic Process
 

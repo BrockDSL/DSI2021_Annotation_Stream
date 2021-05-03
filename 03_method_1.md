@@ -1,6 +1,3 @@
-![Tool Logo][imglogo]
-
-
 # Annotation via Hypothesis
 
 
@@ -8,7 +5,7 @@
 
 Once your account is setup we can now explore.
 
-
+----
 
 ### 'Public' Annotations 
 
@@ -21,6 +18,15 @@ Navigate to:
 Add / View Public comments & annotations 
 
 
+
+![BBC annotations](method_1_step_1.png)
+
+
+
+
+
+
+----
 
 ### 'Group' Annotations
 
@@ -35,10 +41,23 @@ View our [group annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
 
 
 
+![workshop homepage annotations](method_1_step_2.png)
+
+
+
+----
+
 ### One last Exercise
 
 Explore other 'public' annotations
+
+Share any interesting links in the Chat box.
+
 You can start from the public group annotation [listing](https://hypothes.is/groups/__world__/public?q=)
+
+
+
+![list of public annotations](method_1_step_3.png)
 
 
 
