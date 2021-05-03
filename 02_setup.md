@@ -3,14 +3,33 @@
 
 # Annotation via Hypothesis
 
-## DSI 2021
+## What is Hyptothesis
 
-Welcome to DSI 2021, in this stream we'll be looking at how to use Hypothes.is to do web annotation. The workshop is broken down into for pieces.
 
-1. What is Hypothes.is ([link](01_what.md))
-2. How to setup Hypothes.is ([link](02_setup.md))
-3. Method 1: Annotation and the public web ([link](03_method_1.md))
-4. Method 2: Annotation on Sakai ([link](04_method_2.md))
+
+## Setting up Hyptothesis
+
+- Works in Google [Chrome](https://www.google.com/intl/en_ca/chrome/) 
+- Create [Account](https://web.hypothes.is/start/)
+- Install [Extension](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek) 
+
+![step 1](step_1.png)
+
+
+## Method 1: Hyptothesis on the Open Web
+
+- Once we have account setup
+- Navigate to:
+- - [The cost of the Suez Canal blockage]
+
+
+
+## Method 2: Hypothesis in Sakai
+
+
+
+
+
 
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
 
