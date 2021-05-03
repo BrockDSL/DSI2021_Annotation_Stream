@@ -4,7 +4,7 @@
 # Annotation via Hypothesis
 
 
-## Method 2: Hypothesis in Sakai
+## Method 2: Hypothes.is in Sakai
 
 ## Basic Process
 
@@ -80,9 +80,19 @@ You can access Hyptothes.is via the **Lessons** tool in Sakai. You pick a file f
 
 **Step 1.**
 
+
+
+
+
+<img src="method_2_step_7.png" alt="Step 7. New Entry on Gradebook" style="zoom:75%;" />
+
 **Step 2.**
 
-**Step 3.**
+
+
+
+
+<img src="method_2_step_8.png" alt="Step 8. New Entry on Gradebook"  style="zoom:75%;" />
 
 
 

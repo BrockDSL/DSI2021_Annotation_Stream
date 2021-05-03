@@ -5,7 +5,7 @@
 
 ----
 
-## Setting up Hyptothesis
+## Setting up Hypothes.is
 
 - Works in Google [Chrome](https://www.google.com/intl/en_ca/chrome/) (or with a Bookmarklet)
 - Create [Account](https://web.hypothes.is/start/) and edit details
