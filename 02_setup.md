@@ -3,18 +3,17 @@
 
 # Annotation via Hypothesis
 
-## What is Hyptothesis
-
-
+----
 
 ## Setting up Hyptothesis
 
-- Works in Google [Chrome](https://www.google.com/intl/en_ca/chrome/) 
-- Create [Account](https://web.hypothes.is/start/)
+- Works in Google [Chrome](https://www.google.com/intl/en_ca/chrome/) (or with a Bookmarklet)
+- Create [Account](https://web.hypothes.is/start/) and edit details
 - Install [Extension](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek) 
 
-![step 1](step_1.png)
+![step 1](setup_1.png)
 
+----
 
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
 

@@ -30,25 +30,34 @@ You can access Hyptothes.is via the **Lessons** tool in Sakai. You pick a file f
 
 **Step 1.**
 
+
+
 <img src="method_2_step_1.png" alt="Step 1. Lesson tab" style="zoom:50%;" />
 
 **Step 2.**
+
+
 
 <img src="method_2_step_2.png" alt="Step 2. Add Exernal Tool " style="zoom:50%;" />
 
 **Step 3.**
 
+
 <img src="method_2_step_3.png" alt="Step 3. Edit-to-add " style="zoom:75%;" />
 
 **Step 4.**
+
 
 <img src="method_2_step_4.png" alt="Step 4. Dialog box details"/>
 
 **Step 5.**
 
+
 <img src="method_2_step_5.png" alt="Step 5. Link in Lessons" style="zoom:75%;" />
 
 **Step 6.**
+
+
 <img src="method_2_step_6.png" alt="Step 6. Upload or Link" style="zoom:75%;" />
 
 
