@@ -1,5 +1,3 @@
-![Tool Logo][imglogo]
-
 
 # Annotation via Hypothesis
 
