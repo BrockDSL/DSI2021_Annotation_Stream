@@ -4,7 +4,7 @@
 
 <iframe width="665" height="374" src="https://www.youtube.com/embed/lW1nNYW-2Ds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Welcome to DSI 2021 and the Annotation Stream. During our time together we'll be looking at how we can use the [Hypothes.is](https://web.hypothes.is/) tool to create an engaging assignment for your class in [SAKAI](https://lms.brocku.ca).
+Welcome to DSI 2022 and the Annotation Stream. During our time together we'll be looking at how we can use the [Hypothes.is](https://web.hypothes.is/) tool to create an engaging assignment for your class in [SAKAI](https://lms.brocku.ca).
 
 
 ## A brief video of Hypothes.is

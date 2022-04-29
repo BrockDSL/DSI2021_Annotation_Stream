@@ -74,7 +74,7 @@ You can access Hyptothes.is via the **Lessons** tool in Sakai. You pick a file f
 
 
 
-**NB.** Brock re-upped subscription to the tool and it will be in place until at least end of 2021 fiscal. Longer if intersted in the tool continues.
+**NB.** Brock re-upped subscription to the tool and it will be in place until at least end of the upcoming year. With the move to the new LMS coming up, it will be unclear if it supports Hypothes.is but investigations are underway.
 
 
 

@@ -10,7 +10,7 @@ Once your account is setup we can now explore.
 ### 'Public' Annotations 
 
 - Navigate to: [The cost of the Suez Canal blockage](https://www.bbc.com/news/business-56559073)
-- Navigate to: [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
+- Navigate to: [Workshop Homepage](https://brockdsl.github.io/DSI_2022/)
 - Add / View Public comments & annotations 
 
 
@@ -25,7 +25,7 @@ Once your account is setup we can now explore.
 - Join our [group](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
 - Navigate to: [Workshop Homepage](https://brockdsl.github.io/DSI2021/)
 - Leave an annotation for our group only
-- View our group[annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
+- View our group [annotations](https://hypothes.is/groups/AWL3ekDw/dsi-testers)
 
 
 
@@ -35,7 +35,7 @@ Once your account is setup we can now explore.
 
 ----
 
-### One last Exercise
+### If time allows - one last exercise
 
 - Explore other 'public' annotations
 - Share any interesting links in the Chat box.
