@@ -3,7 +3,7 @@
 
 ## DSI 2022
 
-Welcome to DSI 2022, in this stream we'll be looking at how to use Hypothes.is to do web annotation. The workshop is broken down into for pieces.
+Welcome to DSI 2022, in this workshop we'll be looking at how to use Hypothes.is to do web annotation. The workshop is broken down into four pieces.
 
 1. What is Hypothes.is ([link](01_what.md))
 2. How to setup Hypothes.is ([link](02_setup.md))
